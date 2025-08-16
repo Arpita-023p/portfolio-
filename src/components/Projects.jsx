@@ -7,7 +7,7 @@ const Projects = ({ darkMode }) => {
       title: "Flipkart Clone (MyShop)",
       description: "Built a responsive e-commerce platform using Javascript and REST APIs. Features include cart, wishlist, search, and user authentication using Local Storage.",
       technologies: ["HTML", "CSS", "JavaScript", "DOM API"],
-      github: "https://github.com/Arpita-023p",
+      github: "https://github.com/Arpita-023p/Myshop",
       demo: "#",
       image: "/images/project/myshop.jpg"
     },
@@ -15,7 +15,7 @@ const Projects = ({ darkMode }) => {
       title: "ReactJS Frontend Web Application",
       description: "Modular SPA with React Router and Jest testing.",
       technologies: ["React.js", "HTML", "CSS", "JavaScript"],
-      github: "https://github.com/Arpita-023p",
+      github: "https://github.com/Arpita-023p/E-commerce",
       demo: "#",
       image: "/images/project/e-commerce.jpg"
     },
@@ -23,7 +23,7 @@ const Projects = ({ darkMode }) => {
       title: "Password Generator (SecurePass)",
       description: "Built a responsive password generator using JavaScript that creates strong, customizable passwords with features like length adjustment and character type selection.",
       technologies: ["HTML", "CSS", "JavaScript"],
-      github: "https://github.com/Arpita-023p",
+      github: "https://github.com/Arpita-023p/password_generator-",
       demo: "#",
       image: "/images/project/password-genertor.jpg"
     },
@@ -31,7 +31,7 @@ const Projects = ({ darkMode }) => {
       title: "Weather App",
       description: "Developed a responsive weather application that fetches real-time weather data from an API with location-based search and dynamic display of weather conditions.",
       technologies: ["HTML", "CSS", "JavaScript", "API Integration"],
-      github: "https://github.com/Arpita-023p",
+      github: "https://github.com/Arpita-023p/Weather-",
       demo: "#",
       image: "/images/project/weather.jpg"
     },
