@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Very basic custom styles */
+body {
+  @apply transition-colors duration-200;
+}
+
+/* Simple hover effects */
+.hover-scale {
+  @apply transition-transform duration-300 hover:scale-105;
+}
+
+/* Gradient text */
+.text-gradient {
+  @apply text-transparent bg-clip-text;
+  background-image: linear-gradient(to right, #a855f7, #ec4899);
+}
